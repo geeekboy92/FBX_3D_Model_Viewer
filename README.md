@@ -14,6 +14,12 @@ A modern, interactive web application for uploading and viewing 3D FBX models De
   - Right-click and drag to pan
   - Reset view button
 
+![home](https://github.com/geeekboy92/FBX_3D_Model_Viewer/blob/main/1.jpeg)
+![home](https://github.com/geeekboy92/FBX_3D_Model_Viewer/blob/main/2.jpeg)
+![home](https://github.com/geeekboy92/FBX_3D_Model_Viewer/blob/main/3.jpeg)
+![home](https://github.com/geeekboy92/FBX_3D_Model_Viewer/blob/main/4.jpeg)
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -37,8 +43,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Usage
 
